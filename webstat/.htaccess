@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/taganrog-media.ru/webstat"
+AuthUserFile /var/www/user3567/data/etc/115344704.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

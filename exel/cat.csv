@@ -1,0 +1,24 @@
+id;name;type;str;tit;keywords
+0;Реклама;2;index.php?cat=reklama_ot_partnerov
+10;ТАГАНРОГ-МЕДИА;1;index.php
+20;Новости;0;index.php?cat=Informatciia_novosti
+30;Спорт;0;index.php?cat=Sport-reportazhi;В разделе «Спорт-репортажи» предоставлены видеоролики и репортажи с участием таганрогских спортсменов, команд в соревнованиях проходивших как в Таганроге, так и за его пределами.
+40;“Модные акценты”;0;index.php?cat=Modnye_akcenty;Предлагаем Вам посмотреть  авторскую телепрограмму «Таганрог-Медиа»  «Модные Акценты». Телепрограмма  размещается на 23 телеканале VSL «Домашний». В сюжетах нашей мы говорим о салонах красоты, бутиках, ночных клубах, кафе и ресторанах. Делимся секретами профессиональных стилистов.;Домашний,VSL,23 канал,таганрог медиа
+50;“Я-рекламная модель”;0;index.php?cat=Ia_reclamnaia_model
+60;“Art-vision”;0;index.php?cat=Art_vision
+70;Конкурсы;0;index.php?cat=Konkursy
+80;Сегодня в истории Таганрога;0;index.php?cat=Segodnia_v_istorii_Taganroga
+90;Фильмография;0;index.php?cat=Filmografiia
+95;ТЕЛЕВИДЕНИЕ;1;
+100;ТВ VSL (23 канал);0;index.php?cat=TV_VSL_23_kanal;
+110;ТТК (21 канал);0;index.php?cat=TTK_21_kanal;
+120;ТРК “Университет” (26 канал);0;index.php?cat=TRK_Universitet_26_kanal;
+130;ТК 5 ТНТ-Таганрог;0;index.php?cat=TK_5_TNT_Taganrog;
+140;ГАЗЕТЫ;1;
+150;“Таганрогская правда”;0;index.php?cat=Taganrogskaia_pravda;
+160;FM-Радио;1;
+170;Радио ТВС-101,9 FM;0;index.php?cat=Radio_TVS_101_9FM;
+180;Радио Маяк-FM-видео;0;index.php?cat=Radio_Majak_video;
+190;Радио “Курьер” 102,6;0;index.php?cat=Radio_Kurier_102_6;
+200;СВАДЕБНЫЕ УСЛУГИ;1;
+210;Видеосъемка свадеб;0;index.php?cat=Videosemka_svadeb
